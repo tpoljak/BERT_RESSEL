@@ -1,7 +1,7 @@
 ### BERT for Response Selection
 Our paper is available at https://arxiv.org/abs/1908.04812
 
-![model_overview](./Model_Overview.pdf)
+![model_overview](./model_overview.jpg)
 
 ### Acknowledgements
 
